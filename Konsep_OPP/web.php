@@ -16,4 +16,4 @@ class product
 }
 
 $product1 = new product('Smartphone', 5000000, 'Smartphone terbaru dengan kamera berkualitas tinggi');
-$product2 = new product('Samsung', 4000000, 'Smartphone terbaru dengan build qualityu tebaik');
+$product2 = new product('Redmi', 6000000, 'Smartphone terbaru dengan build quality dan kamera berkualitas tinggi');
